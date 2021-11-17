@@ -13,3 +13,8 @@ Agenda
 - DAX Funktionen und Berechnungen
 - Measures und berechnete Spalten
 - Sicherheit auf Zeilenebenen mit Rollenkonzepten und Freigabeoptionen
+- Neue und klassische Gruppen in Power BI
+- Dashboards erstellen und freigeben
+- Apps erstellen
+- Administrative Einstellungen im Verwaltungsportal
+- Datenmodellierung in der Power App
